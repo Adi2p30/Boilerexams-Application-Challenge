@@ -3,13 +3,15 @@ This file will contain the exploratory data analysis that I have preformed in ED
 
 
 
-## Understanding the Dataset
+## Understanding the Dataset \
+
+---
 I first got some background knowledge of the dataset by looking at the dataset by querying in SQL. I also checked the data types of the columns and the number of missing values in each column.
 I then looked at EDA_specific_columns.ipynb to get a better understanding of the dataset and then moved on to EDA.ipynb to perform the EDA.
 I wrote some code to sample the dataset and optimised performance in Chunking_Loading.ipynb 
 Then I worked in EDA.ipynb, I thought of some hypothesis and then tested them in Additional_EDA.ipynb
 Finally I tried to train some XGBoost models in Ground_ML.ipynb
----
+__
 ## Features
 
 ### Epoch
